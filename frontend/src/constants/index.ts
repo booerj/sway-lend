@@ -27,7 +27,7 @@ export const INDEXER_URL =
 
 export const NODE_URL = "https://beta-4.fuel.network/graphql";
 export const EXPLORER_URL =
-  "https://fuellabs.github.io/block-explorer-v2/beta-3/#";
+  "https://fuellabs.github.io/block-explorer-v2/beta-4/#";
 export const FAUCET_URL = "https://faucet-beta-4.fuel.network";
 export const CONTRACT_ADDRESSES: IContractsConfig = {
   priceOracle:
